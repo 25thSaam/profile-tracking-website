@@ -2,11 +2,10 @@
 
 ## Overview
 
-The **International Tracking & Profiling Database (ITPD)** is a fictional web application built as part of a school project exploring an information crisis scenario set in the year 2076. The website simulates a dystopian system where user profiles are tracked, analyzed, and accessed through a centralized database.
+The **International Tracking & Profiling Database (ITPD)** is a fake web application built for a school project exploring an information crisis scenario set in the year 2076. The website simulates a dystopian system where user profiles are tracked, analyzed, and accessed through a centralized database.
 
-The project was built using **HTML, CSS, and JavaScript** to explore frontend development and UI/UX design concepts while also engaging with themes of privacy, surveillance, and data ethics.
+The project was built using **HTML, CSS, and JavaScript** to explore frontend development and UI/UX design concepts while also engaging with themes of privacy, and surveillance.
 
----
 
 ## Motivation
 
@@ -14,16 +13,15 @@ As a Computer Science student with an interest in cybersecurity, I wanted to exp
 
 Although modern-day systems are not as extreme as the scenario presented in this project, issues such as data collection, surveillance, and privacy violations already exist. This project exaggerates these concerns to highlight a potential dystopian future shaped by unchecked information systems.
 
----
 
 ## Key Features
 
 - **Profile Search & Filtering System**
-  - Users can search and filter simulated profile cards
+  - Users can search and filter profile cards
 
 - **Dynamic Profile Pages**
-  - Each profile redirects to a unique page using URL parameters
-  - Displays fictional data such as:
+  - Some profiles (first 4) redirects to a unique page using URL parameters
+  - Displays fake data such as:
     - Location
     - Financial status
     - Social information
@@ -38,7 +36,6 @@ Although modern-day systems are not as extreme as the scenario presented in this
   - Includes a map showing simulated global distribution of tracked profiles
   - Highlights concentration in more developed regions
 
----
 
 ## Course Connections & Themes
 
@@ -60,19 +57,18 @@ This project connects to several themes discussed in class:
 
 ## Design Process
 
-The initial design was created using **Figma** as a wireframe and blueprint for the website structure.
+The initial design was created using **Figma** as blueprint for the website structure.
+- https://www.figma.com/site/YfS0QhupOBNOp4SqVRF5ci/ITPD-Site---2076-Project?node-id=0-1&t=4MYuAEfP9EyUv3A6-1
 
-- Figma planning was used to design layout and user flow  
-- The final website was implemented using **Visual Studio Code**
-- The project was built from scratch without website builders (e.g., Wix) to gain hands-on experience with web development
+- Figma planning was used to design layout and user flow
+- Figma was used as reference to built interactive website in **Visual Studio Code**  
+  - The final website was implemented using **JavaScript, HTML, and CSS** with changes to design being made during     development for a cleaner website design.
 
----
 
 ## Data Visualization
 
 The map used in the “Data” page was created using **Canva**, utilizing pre-made design elements to represent global tracking distribution.
 
----
 
 ## Use of Artificial Intelligence
 
